@@ -903,7 +903,7 @@ class PlayState extends MusicBeatState
         
         var creditTxt:FlxText = new FlxText(4,healthBarBG.y + 20,0,("Port by SkD_KING' "), 24);
         creditTxt.scrollFactor.set();
-        creditTxt.setFormat("VCR OSD Mono", 24, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+        creditTxt.setFormat("vcr.ttf", 24, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
         creditTxt.borderColor = FlxColor.BLACK;
         creditTxt.borderSize = 3;
         creditTxt.borderStyle = FlxTextBorderStyle.OUTLINE;
