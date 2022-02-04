@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"detected",
+			"robot",
+			[
+				255,
+				0,
+				13
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Recreation By SkD_KING",
+	"weekName": "detected",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": false
+}
