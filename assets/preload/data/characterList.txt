@@ -1,3 +1,4 @@
-gold
-red
-red_angry
+bf
+gf
+dad
+robot
